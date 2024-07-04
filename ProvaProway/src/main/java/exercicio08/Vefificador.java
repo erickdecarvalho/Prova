@@ -1,4 +1,4 @@
-package exericio08;
+package exercicio08;
 
 public abstract class Vefificador {
     public static Boolean verificarFinalString(String primeiraString, String segundaString) {

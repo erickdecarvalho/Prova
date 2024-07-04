@@ -1,4 +1,4 @@
-package exericio08;
+package exercicio08;
 
 public class Main {
     static Vefificador vefificador;
